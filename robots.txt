@@ -1,0 +1,15 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
+User-agent: *
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /photos/
+Disallow: /*.css
+Disallow: /*.js
+Disallow: https://meng-luo.github.io
+Disallow: https://meng-luo.github.io/*
+Disallow: http://meng-luo.github.io/*
+Disallow: http://meng-luo.github.io
+Sitemap: https://www.ysbrid.top/sitemap.xml
+Sitemap: https://www.ysbrid.top/post-sitemap.xml
+Sitemap: https://www.ysbrid.top/page-sitemap.xml
