@@ -1,6 +1,5 @@
 https://www.ysbrid.top/arch-1/
 https://www.ysbrid.top/termux-xmr/
-https://www.ysbrid.top/hexo/
 https://www.ysbrid.top/info/
 https://www.ysbrid.top/yousa/
 https://www.ysbrid.top/hello-world/
