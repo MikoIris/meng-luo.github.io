@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://www.ysbrid.top/arch-2/</loc>
+        <lastmod>2021-08-02T10:56:51.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.ysbrid.top/arch-1/</loc>
         <lastmod>2021-07-30T05:38:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
