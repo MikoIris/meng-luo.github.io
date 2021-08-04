@@ -11,7 +11,16 @@
     
     <url>
         <loc>https://www.ysbrid.top/link/</loc>
-        <lastmod>2021-08-03T15:53:43.630Z</lastmod>
+        <lastmod>2021-08-04T04:03:33.895Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.ysbrid.top/music/</loc>
+        <lastmod>2021-08-04T04:03:33.895Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -20,16 +29,7 @@
     
     <url>
         <loc>https://www.ysbrid.top/tags/</loc>
-        <lastmod>2021-08-03T15:53:43.630Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.ysbrid.top/img/siteicon/README</loc>
-        <lastmod>2021-08-03T15:53:43.630Z</lastmod>
+        <lastmod>2021-08-04T04:03:33.895Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -38,7 +38,7 @@
     
     <url>
         <loc>https://www.ysbrid.top/about/</loc>
-        <lastmod>2021-08-03T15:53:43.626Z</lastmod>
+        <lastmod>2021-08-04T04:03:33.891Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -47,7 +47,7 @@
     
     <url>
         <loc>https://www.ysbrid.top/bangumis/</loc>
-        <lastmod>2021-08-03T15:53:43.626Z</lastmod>
+        <lastmod>2021-08-04T04:03:33.891Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -56,7 +56,16 @@
     
     <url>
         <loc>https://www.ysbrid.top/categories/</loc>
-        <lastmod>2021-08-03T15:53:43.626Z</lastmod>
+        <lastmod>2021-08-04T04:03:33.891Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.ysbrid.top/img/siteicon/README</loc>
+        <lastmod>2021-08-04T04:03:33.891Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
