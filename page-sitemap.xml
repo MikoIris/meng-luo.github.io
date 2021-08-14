@@ -10,35 +10,8 @@
     
     
     <url>
-        <loc>https://www.ysbrid.top/link/</loc>
-        <lastmod>2021-08-14T18:27:35.417Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.ysbrid.top/music/</loc>
-        <lastmod>2021-08-14T18:27:35.417Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.ysbrid.top/tags/</loc>
-        <lastmod>2021-08-14T18:27:35.417Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://www.ysbrid.top/bangumis/</loc>
-        <lastmod>2021-08-14T18:27:35.413Z</lastmod>
+        <lastmod>2021-08-14T18:33:03.040Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -47,7 +20,34 @@
     
     <url>
         <loc>https://www.ysbrid.top/categories/</loc>
-        <lastmod>2021-08-14T18:27:35.413Z</lastmod>
+        <lastmod>2021-08-14T18:33:03.040Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.ysbrid.top/link/</loc>
+        <lastmod>2021-08-14T18:33:03.040Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.ysbrid.top/music/</loc>
+        <lastmod>2021-08-14T18:33:03.040Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.ysbrid.top/tags/</loc>
+        <lastmod>2021-08-14T18:33:03.040Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -56,7 +56,7 @@
     
     <url>
         <loc>https://www.ysbrid.top/img/siteicon/README</loc>
-        <lastmod>2021-08-14T18:27:35.413Z</lastmod>
+        <lastmod>2021-08-14T18:33:03.040Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
